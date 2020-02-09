@@ -14,7 +14,3 @@ $ bash binder.sh
 Note :- You must need to sign this apk with apk-editro pro.
 
 Download Apk-Editro Pro - https://www.hackersking.in/2019/12/apk-editor-pro-mod-version.html
-
-If you still have a question then visit our website for more breifl information
-
-Author - Mohit Saran
