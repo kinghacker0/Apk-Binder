@@ -1,6 +1,6 @@
 #Author - github.com/kinghacker0
 #Credit - Give me credit if you use any part of script
-
+clear
 #Banner Start
 echo -e "\e[31m                                                              \e[0m"
 echo -e "\e[31m ▄▄▄       ██▓███   ██ ▄█▀ ▄▄▄▄    ██▓ ███▄    █ ▓█████▄ ▓█████  ██▀███  \e[0m";
