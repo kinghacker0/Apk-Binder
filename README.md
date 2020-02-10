@@ -1,9 +1,13 @@
 # Apk-Binder
+
+![image](https://lh3.googleusercontent.com/-F2puhQj-IMY/XkEglwxU7tI/AAAAAAAAByw/uCw3BSjt4RoC4x39qqrxb4SeYTHaI0qLQCLcBGAsYHQ/h120/Screenshot.png)
+
 Using this Apk-Binder tool or script you can embed the metasploit payload or backdoor with apk files.
 
 Requirements:-
 > Metasploit-Framework
 > Apktools
+>Zipalign
 
 Installation :-
 
