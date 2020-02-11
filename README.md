@@ -1,6 +1,6 @@
 # Apk-Binder
 
-[![Watch the video](https://www.youtube.com/watch?v=OuqFxGhBSGU
+[![Watch the video](https://www.youtube.com/watch?v=OuqFxGhBSGU)
 
 
 Using this Apk-Binder tool or script you can embed the metasploit payload or backdoor with apk files.
